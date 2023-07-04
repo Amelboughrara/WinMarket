@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WinMarket" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.WinMarket" parent="Base.Theme.WinMarket" />
+
+    <!-- bouton page home -->
+    <style name="button_home">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/SofiaSans</item>
+    </style>
+
+    <!-- logo -->
+    <style name="logo">
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">100sp</item>
+        <item name="android:fontFamily">@font/MrDafoe</item>
+    </style>
+
+    <!-- titre -->
+    <style name="titre">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:fontFamily">@font/Arya</item>
+    </style>
+
+    <!-- article titre -->
+    <style name="TitleArticle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/SofiaSans</item>
+    </style>
+
+    <!-- article sous titre -->
+    <style name="SubtitleArticle">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:fontFamily">@font/SofiaSans</item>
+    </style>
+
+</resources>

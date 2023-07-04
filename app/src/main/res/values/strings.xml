@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WM</string>
+    <!-- Page home -->
+
+    <string name="page_home_button1">Catégories</string>
+    <string name="page_home_button2">Marque</string>
+    <string name="page_home_button3">Prix</string>
+
+    <!-- Page femme -->
+
+    <string name="page_femme_title">FEMME</string>
+    <string name="produit">Article</string>
+    <string name="taille">L</string>
+    <string name="user">Amel BOUGHRARA</string>
+    <string name="price">29.99€</string>
+
+    <string-array name="button_taille">
+        <item>Toutes les tailles</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <!-- Page ajouter un article -->
+
+    <string name="add_article_name">Ajouter un article</string>
+    <string name="add_product">*Titre</string>
+    <string name="add_price">*Prix</string>
+    <string name="add_img">*Image</string>
+    <string name="add_description">*Description</string>
+    <string name="button_add_article">Ajouter l\'article</string>
+
+    <string-array name="add_categories">
+        <item>Catégories</item>
+        <item>Femmes</item>
+        <item>Hommes</item>
+        <item>Enfants</item>
+        <item>Maison</item>
+        <item>Divertissement</item>
+        <item>Animaux</item>
+    </string-array>
+
+</resources>
